@@ -1,0 +1,7 @@
+{
+	"dbUsername"	: "username",
+	"dbPassword"	: "password",
+	"dbScheme"		: "databasename",
+	"dbServer"		: "localhost",
+	"webPort"		: "8080"
+}
